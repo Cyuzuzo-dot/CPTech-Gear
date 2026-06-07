@@ -15,7 +15,7 @@
 * **Project Title:** CPTech Gear
 * **Platform Used:** Wix (No-Code/Low-Code Platform)
 * **Live Website Link:** [CPTech Live Store](https://cyuzuzopacifique74.wixsite.com/cptech-24004-2024)
-* **GitHub Repository Link:** [https://github.com/Gisubizo-Merveille/CP-Tech-Ecommerce](https://github.com/Gisubizo-Merveille/CP-Tech-Ecommerce)
+* **GitHub Repository Link:** [https://github.com/Gisubizo-Merveille/CP-Tech-Ecommerce](https://github.com/Cyuzuzo-dot/CPTech-Gear.git)
 
 ---
 
